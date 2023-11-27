@@ -29,9 +29,9 @@ header{
     height: 600px;
     background: #0f0c29;  
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, hsla(240, 27%, 19%, 0.61), hsla(245, 39%, 28%, 0.63), hsla(246, 55%, 10%, 0.582)),  url(../rubiusportada.jpg);  
+    background: -webkit-linear-gradient(to right, hsla(240, 27%, 19%, 0.61), hsla(245, 39%, 28%, 0.63), hsla(246, 55%, 10%, 0.582)),  url(https://media.revistagq.com/photos/650c1592584b98a1832e6fb3/16:9/w_1280,c_limit/Marca%20agua%20_RUBIUS2.jpg);  
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, hsla(240, 27%, 19%, 0.61), hsla(245, 39%, 28%, 0.63), hsla(246, 55%, 10%, 0.582)),  url(../rubiusportada.jpg);
+    background: linear-gradient(to right, hsla(240, 27%, 19%, 0.61), hsla(245, 39%, 28%, 0.63), hsla(246, 55%, 10%, 0.582)),  url(https://media.revistagq.com/photos/650c1592584b98a1832e6fb3/16:9/w_1280,c_limit/Marca%20agua%20_RUBIUS2.jpg);
      /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 background-size: cover;
 background-attachment: fixed;
